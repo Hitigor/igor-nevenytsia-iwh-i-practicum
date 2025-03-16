@@ -1,7 +1,6 @@
 require('dotenv').config();
 const axios = require('axios');
 
-// Replace with your custom object details
 const customObjectDetails = {
   name: 'pet',
   labels: {
